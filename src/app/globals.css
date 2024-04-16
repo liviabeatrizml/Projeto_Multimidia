@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#element:hover h1 {
+    color: brown;
+}
+
+body {
+    background-color: #171614;
+    background-size: cover ;
+    background-position: center;
+}
